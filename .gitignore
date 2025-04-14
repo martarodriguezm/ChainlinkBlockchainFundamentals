@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled contracts
+artifacts/
+cache/
+build/
+
+# Hardhat temporary files
+typechain/
+coverage/
+coverage.json
+gas-report.json
+
+# Truffle
+.env
+*.log
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# Foundry
+out/
+lib/
+forge-artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing coverage
+lcov-report/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
